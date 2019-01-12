@@ -29,6 +29,7 @@ gem 'active_model_serializers', '~> 0.10.0'
 gem 'ransack'
 gem 'omniauth'
 gem 'devise_token_auth'
+gem 'rails-i18n', '~> 5.1'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 gem 'rack-cors'
